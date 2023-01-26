@@ -9,7 +9,7 @@
   "dt_remote": "github",
   "dt_path": "device/qualcomm/sunstone",
   "device_code": "sunstone",
-  "use_omin_head": true,
+  "use_omin_head": false,
   "use_repair_manifest": false,
   "fix_product": false,
   "fix_misscom": false,
