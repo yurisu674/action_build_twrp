@@ -1,6 +1,6 @@
 {
   "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git",
-  "twrp_branch": "twrp-9.0",
+  "twrp_branch": "twrp-11.0",
   "git_username": "yurisu674",
   "git_email": "79150772+yurisu674@users.noreply.github.com",
   "use_own_dt": true,
@@ -14,5 +14,5 @@
   "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
-  "fix_branch": "android-9.0"
+  "fix_branch": "android-11.0"
 }
